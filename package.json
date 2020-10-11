@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/kevinegstorf/led_project/issues"
   },
-  "homepage": "https://github.com/kevinegstorf/led_project#readme"
+  "homepage": "https://github.com/kevinegstorf/led_project#readme",
+  "dependencies": {
+    "@types/node": "^14.11.8",
+    "rpi-led-matrix": "^1.11.1"
+  }
 }
