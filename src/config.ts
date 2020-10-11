@@ -1,9 +1,7 @@
 import {
   GpioMapping,
   LedMatrix,
-  LedMatrixUtils,
   MatrixOptions,
-  PixelMapperType,
   RuntimeOptions,
 } from "rpi-led-matrix";
 
