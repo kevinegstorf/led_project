@@ -7,7 +7,7 @@ import {
   HorizontalAlignment,
   VerticalAlignment,
 } from "rpi-led-matrix";
-import { matrixOptions, runtimeOptions } from "./_config";
+import { matrixOptions, runtimeOptions } from "./config";
 
 enum Colors {
   black = 0x000000,
