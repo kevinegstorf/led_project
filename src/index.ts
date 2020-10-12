@@ -1,4 +1,4 @@
-const globby = require("globby");
+import globby from "globby";
 import { basename } from "path";
 import ora = require("ora");
 import * as prompts from "prompts";
